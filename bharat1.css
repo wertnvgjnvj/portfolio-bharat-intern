@@ -1,0 +1,352 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+   
+}
+.navcontainer
+{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 17px;
+    padding-right: 20px;
+    background: #41295a;  
+    background: -webkit-linear-gradient(to right, #2F0743, #41295a); 
+    background: linear-gradient(to right, #2F0743, #41295a); 
+    min-height:60px;
+    color: azure;
+    padding-bottom: 10px;
+}
+#navlist{
+    display: flex;
+    justify-content: space-between;
+    gap:36px;
+    padding-top: 10px;
+
+   
+}
+a{
+    text-decoration: none;
+    color: azure;
+}
+#logo{
+    font-size: 36px;
+   
+}
+#dp{
+    width:280px;
+    height:400px;
+    position: absolute;
+    right:245px ;
+    top: 130px;
+    border: 3px ;
+    border-radius: 10px;
+}
+main{
+    background-color: #170122;
+}
+.head{
+    display:flex;
+    min-height: 550px;
+    justify-content: space-between;
+
+}
+.box{
+    width:280px;
+    height:400px;
+    border:3px dashed white;
+    border-radius: 10px;
+    margin-top: 60px;
+    margin-right: 220px;
+}
+#title{
+    color: azure;
+    font-size: 60px;
+    padding-top: 120px;
+    padding-left: 110px;
+}
+#info{
+    color: azure;
+    padding-left: 112px;
+    padding-top: 20px;
+}
+.edu{
+    min-height: 900px;
+}
+#education{
+    text-align: center;
+    color:aliceblue
+}
+#info1{
+    padding-top:20px;
+    font-size: 19px;
+}
+#edubg{
+    font-size: 35px;
+}
+#schoollogo{
+    
+    width:100px;
+    height:100px;
+    border:1px;
+    border-radius: 10px;
+   
+}
+#school{
+    display: flex;
+    flex-direction: column;
+   
+    align-items: start;
+    gap:60px;
+    padding-top: 70px;
+    padding-left: 130px;
+}
+.university{
+    display: flex;
+}
+#marks{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    gap:80px;
+    padding-top: 70px;
+    font-size: 25px;
+    padding-left: 100px;
+   
+}
+#chitkara{
+    padding-left: 40px;
+}
+.ten{
+    display: flex;
+    gap:80px;
+    padding-top: 10px;
+
+
+}
+.tenmarks{
+    display: flex;
+    gap: 50px;
+    padding-top: 10px;
+}
+.british{
+    padding-right: 20px;
+}
+.cont{
+    display: flex;
+    flex-direction: column;
+    gap:30px;
+}
+#blossom{
+    font-size: 25px;
+    padding-top: 20px;
+    padding-left: 0px;
+    
+}
+.cbse{
+    display: flex;
+    padding-left: 95px;
+    gap:100px;
+    padding-top: 10px;
+}
+.one{
+    display: flex;
+    padding-left: 95px;
+    gap:62px;
+    padding-top:10px;
+
+}
+.blo{
+    padding-left: 80px;
+}
+#chitkara{
+    font-size: 25px;
+    padding-top: 20px;
+    padding-left: 60px;
+}
+.degree{
+    display: flex;
+    gap:95px;
+    padding-left: 18px;
+    padding-top: 10px;
+}
+.two{
+    display: flex;
+    gap: 90px;
+    padding-left: 18px;
+    padding-top: 10px;
+}
+.chit{
+    padding-left: 20px;
+}
+.university{
+    padding-left: 90px;
+}
+.edu{
+    min-height: 710px;
+}
+#my{
+    text-align: center;
+    color: aliceblue;
+    font-size: 40px;
+    padding-bottom: 15px;
+}
+.skills{
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+    min-height:600px;
+
+}
+#skill1{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    padding-top: 20px;
+}
+#im{
+    height: 100px;
+    width:100px;
+}
+#skillsn1{
+    display: flex;
+    gap: 140px;
+    justify-content: center;
+}
+#cs{
+    padding-left: 30px;
+}
+#skills2{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    gap:100px;
+}
+#skillsn2{
+    display: flex;
+    justify-content: center;
+    gap: 170px;
+
+}
+#skills3{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    padding-top: 15px;
+}
+#skillsn3{
+    display: flex;
+    justify-content: center;
+    gap: 160px;
+}
+#ex{
+    color: aliceblue;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.exp{
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+    min-height: 700px;
+}
+#evolve{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    padding-top: 40px;
+}
+#evo{
+    height: 130px;
+    width: 130px;
+}
+#p1{
+    padding-top: 30px;
+}
+#bharat{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    padding-top: 40px;
+}
+#oasis{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    padding-top: 40px;
+}
+.project{
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+    min-height: 850px;
+}
+#cal{
+    padding-top: 20px;
+    text-align: left;
+    font-size: 30px;
+    padding-left: 90px;
+
+}
+#cu{
+    height: 300px;
+    width: 300px;
+    padding-top: 30px;
+}
+#calcu{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+#p2{
+    text-align: left;
+    padding-top: 80px;
+    font-size: 24px;
+}
+#mu{
+    height: 200px;
+    width: 340px;
+    padding-top: 30px;
+}
+#music{
+    display: flex;
+    justify-content: center;
+    gap: 130px;
+}
+footer{
+    min-height:300px;
+    padding-top: 50px;
+    background-color: rgb(107, 4, 203);
+    color: azure;
+}
+.foot{
+    display: flex;
+    justify-content: space-evenly;
+}
+.column1{
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}
+#Support{
+    display:flex;
+    flex-direction: column;
+    gap:40px;
+}
+#address{
+    display:flex;
+    flex-direction: column;
+    gap:40px;
+
+}
+h4{
+    font-size: 23px;
+}
+#copy{
+    text-align: center;
+    background-color: rgb(107, 4, 203) ;
+    color: azure;
+    padding-top:40px ;
+}
